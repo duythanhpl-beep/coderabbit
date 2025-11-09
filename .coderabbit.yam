@@ -1,0 +1,2 @@
+remote_config:
+  url: "https://your-config-location/.coderabbit.yaml"
